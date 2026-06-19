@@ -11,13 +11,6 @@ Pyramid Sans is a modern neo-grotesque sans-serif typeface designed for cleanlin
 | **Designer** | [Cooper Bacon](https://www.cooperbacon.com) |
 | **License** | SIL Open Font License 1.1 |
 
-## Installation
-
-1. Download the font files from the [`/fonts`](./fonts) directory (or the latest [Release](../../releases)).
-2. **Windows:** Right-click each font file and select **Install**.
-3. **macOS:** Double-click each font file and select **Install Font** in Font Book.
-4. **Linux:** Copy the font files to `~/.local/share/fonts` or `/usr/share/fonts`, then run `fc-cache -f -v`.
-
 ## License
 
 Pyramid Sans is licensed under the **SIL Open Font License, Version 1.1**.
