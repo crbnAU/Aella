@@ -1,57 +1,55 @@
-<a href="https://github.com/your-repo/libredl">
+<a href="https://www.cooperbacon.com/aella/">
   <img 
-    src="https://placehold.co/1200x600?text=LibreDL" 
-    alt="LibreDL"
+    src="https://placehold.co/1200x600?text=Coming+Soon" 
+    alt="Coming Soon"
     style="width:100%; max-width:900px; display:block; margin:0 auto 24px; border-radius:12px;"
   />
 </a>
 
-<h1>LibreDL</h1>
+<h1>Aella</h1>
 
 <p>
-  LibreDL is a self-hosted tool that downloads music, fixes metadata, adds lyrics, and imports it into a Navidrome library.
+  Aella is a modern neo-grotesque sans-serif typeface designed for cleanliness, clarity, and versatility.
 </p>
 
-<h2>What It Does</h2>
+<h2>Font Information</h2>
 
 <table>
   <tr>
-    <td>Music Source Support</td>
-    <td>YouTube (via yt-dlp) and manual URLs</td>
+    <td>Official Publication Name</td>
+    <td>Aella</td>
   </tr>
   <tr>
-    <td>Download Engine</td>
-    <td>yt-dlp</td>
+    <td>Reserved Font Names</td>
+    <td>Aella, Aella Sans</td>
   </tr>
   <tr>
-    <td>Metadata Processing</td>
-    <td>beets (tagging, cleaning, organization)</td>
+    <td>Designer</td>
+    <td><a href="https://www.cooperbacon.com/">Cooper Bacon</a></td>
   </tr>
   <tr>
-    <td>Lyrics</td>
-    <td>Automatically fetched and embedded</td>
-  </tr>
-  <tr>
-    <td>Library Output</td>
-    <td>Navidrome / filesystem-based music library</td>
+    <td>License</td>
+    <td>SIL Open Font License 1.1</td>
   </tr>
 </table>
-
-<h2>Overview</h2>
-
-<p>
-  LibreDL acts as an ingestion layer between online music sources and your self-hosted library.
-  It automates downloading, tagging, and organizing tracks into a clean, structured collection.
-</p>
 
 <h2>License</h2>
 
 <p>
-  LibreDL is licensed under the MIT License.
+  Aella is licensed under the <strong>SIL Open Font License, Version 1.1</strong>.
+</p>
+
+<p>
+  This license permits the font to be used, studied, modified, and redistributed freely, including for commercial purposes, provided the font itself is not sold on its own and the Reserved Font Names are not used to promote modified versions without permission.
+</p>
+
+<p>
+  The full license text is available in <code>LICENSE</code> and at
+  <a href="https://www.openfontlicense.org/">https://www.openfontlicense.org/</a>.
 </p>
 
 <h2>Credits</h2>
 
 <p>
-  Built by <strong><a href="https://www.cooperbacon.com/">Cooper Bacon</a></strong>.
+  Designed by <strong><a href="https://www.cooperbacon.com/">Cooper Bacon</a></strong>.
 </p>
